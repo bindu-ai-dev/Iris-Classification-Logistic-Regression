@@ -170,37 +170,18 @@ streamlit run app.py
 
 ## Screenshots
 
-### Dataset Preview
-
-![Dataset](screenshots/dataset.png)
 
 ### Scatter Plot
 
-![Scatter Plot](screenshots/scatterplot.png)
+![Scatter Plot](iris_project/screenshots/scatterplot.png)
 
-### Histogram
-
-![Histogram](screenshots/histogram.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](screenshots/confusion_matrix.png)
-
-### Streamlit Application
-
-![Streamlit Home](screenshots/streamlit_home.png)
 
 ### Prediction Result
 
-![Prediction](screenshots/prediction_result.png)
 
 ![Prediction Result](iris_project/screenshots/prediction_result.png)
 
-![Scatter Plot](iris_project/screenshots/scatterplot.png)
 
-![Histogram](iris_project/screenshots/histogram.png)
-
-![Confusion Matrix](iris_project/screenshots/confusion_matrix.png)
 
 ## 📸 Output
 
