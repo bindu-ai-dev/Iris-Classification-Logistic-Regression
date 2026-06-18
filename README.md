@@ -194,6 +194,14 @@ streamlit run app.py
 
 ![Prediction](screenshots/prediction_result.png)
 
+![Prediction Result](iris_project/screenshots/prediction_result.png)
+
+![Scatter Plot](iris_project/screenshots/scatterplot.png)
+
+![Histogram](iris_project/screenshots/histogram.png)
+
+![Confusion Matrix](iris_project/screenshots/confusion_matrix.png)
+
 ## 📸 Output
 
 * Data Visualization using Scatter Plots and Histograms
